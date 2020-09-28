@@ -53,9 +53,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Horizontal.cs" />
-     <Compile Include="Assets\Scripts\CameraController.cs" />
-     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+     <Compile Include="Assets\Scripts\Camera.cs" />
      <None Include="Assets\Outsourced\EasyRoads3D\shaders\EasyRoads3D-Surface-Offset.shader" />
      <None Include="Assets\Outsourced\Simple city plain\Read_me.txt" />
      <None Include="Assets\Outsourced\EasyRoads3D\shaders\EasyRoads3D - Unity 5 Standard.shader" />
